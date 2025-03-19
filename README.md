@@ -1,6 +1,6 @@
-# Quantum Brain
+# Thought Organizer
 
-A comprehensive knowledge management and project tracking system designed for creative polymaths. Quantum Brain helps you organize your thoughts, track projects, and maintain documentation in a seamless, integrated environment.
+A comprehensive knowledge management and project tracking system designed for creative polymaths. Thought Organizer helps you organize your thoughts, track projects, and maintain documentation in a seamless, integrated environment.
 
 ## Features
 
@@ -26,29 +26,29 @@ A comprehensive knowledge management and project tracking system designed for cr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/quantum-brain.git
-cd quantum-brain
+git clone https://github.com/shanetrimbur/thought-organizer.git
+cd thought-organizer
 ```
 
 2. Make the installation script executable:
 ```bash
-chmod +x QuantumBrain.sh
+chmod +x ThoughtOrganizer.sh
 ```
 
 3. Run the installation script:
 ```bash
-./QuantumBrain.sh
+./ThoughtOrganizer.sh
 ```
 
 ## Usage
 
-### Starting Quantum Brain
+### Starting Thought Organizer
 
-After installation, you can start Quantum Brain in two ways:
+After installation, you can start Thought Organizer in two ways:
 
 1. Using the command line:
 ```bash
-quantum-brain
+thought-organizer
 ```
 
 2. Using the desktop shortcut (if installed)
@@ -70,10 +70,10 @@ Access the web interface at `http://localhost:5000` to manage your projects and 
 ## Directory Structure
 
 ```
-/opt/quantum-brain/           # System-wide installation
-~/.local/share/quantum-brain/ # User-specific data
-~/.config/quantum-brain/      # User-specific configuration
-~/Projects/                   # Main projects directory
+/opt/thought-organizer/           # System-wide installation
+~/.local/share/thought-organizer/ # User-specific data
+~/.config/thought-organizer/      # User-specific configuration
+~/Projects/                       # Main projects directory
 ```
 
 ## Contributing
